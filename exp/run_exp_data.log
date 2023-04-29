@@ -1,0 +1,515 @@
+7248 - [2023-04-29 15:17:08,290] : DEBUG -> Experiment script executed
+7248 - [2023-04-29 15:17:08,290] : DEBUG -> Listing input files to the program
+7248 - [2023-04-29 15:17:08,291] : DEBUG -> Running the program with each input 13 times
+7248 - [2023-04-29 15:17:08,291] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 0
+7248 - [2023-04-29 15:17:08,816] : DEBUG -> Program output: - Time 0
+7248 - [2023-04-29 15:17:08,816] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,816] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000310 
+
+7248 - [2023-04-29 15:17:08,816] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,816] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 1
+7248 - [2023-04-29 15:17:08,820] : DEBUG -> Program output: - Time 1
+7248 - [2023-04-29 15:17:08,820] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,820] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000300 
+
+7248 - [2023-04-29 15:17:08,820] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,820] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 2
+7248 - [2023-04-29 15:17:08,823] : DEBUG -> Program output: - Time 2
+7248 - [2023-04-29 15:17:08,824] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,824] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000310 
+
+7248 - [2023-04-29 15:17:08,824] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,824] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 3
+7248 - [2023-04-29 15:17:08,827] : DEBUG -> Program output: - Time 3
+7248 - [2023-04-29 15:17:08,827] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,827] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000240 
+
+7248 - [2023-04-29 15:17:08,827] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,827] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 4
+7248 - [2023-04-29 15:17:08,830] : DEBUG -> Program output: - Time 4
+7248 - [2023-04-29 15:17:08,830] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,830] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000300 
+
+7248 - [2023-04-29 15:17:08,830] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,830] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 5
+7248 - [2023-04-29 15:17:08,833] : DEBUG -> Program output: - Time 5
+7248 - [2023-04-29 15:17:08,833] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,833] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000290 
+
+7248 - [2023-04-29 15:17:08,833] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,833] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 6
+7248 - [2023-04-29 15:17:08,836] : DEBUG -> Program output: - Time 6
+7248 - [2023-04-29 15:17:08,836] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,836] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000450 
+
+7248 - [2023-04-29 15:17:08,836] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,836] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 7
+7248 - [2023-04-29 15:17:08,838] : DEBUG -> Program output: - Time 7
+7248 - [2023-04-29 15:17:08,838] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,838] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000230 
+
+7248 - [2023-04-29 15:17:08,838] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,838] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 8
+7248 - [2023-04-29 15:17:08,840] : DEBUG -> Program output: - Time 8
+7248 - [2023-04-29 15:17:08,841] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,841] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000240 
+
+7248 - [2023-04-29 15:17:08,841] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,841] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 9
+7248 - [2023-04-29 15:17:08,842] : DEBUG -> Program output: - Time 9
+7248 - [2023-04-29 15:17:08,842] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,843] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000210 
+
+7248 - [2023-04-29 15:17:08,843] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,843] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 10
+7248 - [2023-04-29 15:17:08,844] : DEBUG -> Program output: - Time 10
+7248 - [2023-04-29 15:17:08,845] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,845] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000180 
+
+7248 - [2023-04-29 15:17:08,845] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,845] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 11
+7248 - [2023-04-29 15:17:08,847] : DEBUG -> Program output: - Time 11
+7248 - [2023-04-29 15:17:08,847] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,847] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000210 
+
+7248 - [2023-04-29 15:17:08,847] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,847] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand.txt - Time 12
+7248 - [2023-04-29 15:17:08,848] : DEBUG -> Program output: - Time 12
+7248 - [2023-04-29 15:17:08,848] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,848] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000130 
+
+7248 - [2023-04-29 15:17:08,848] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,849] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 0
+7248 - [2023-04-29 15:17:08,852] : DEBUG -> Program output: - Time 0
+7248 - [2023-04-29 15:17:08,852] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,852] : DEBUG -> 
+ Tempo de Execucao: ---> 0.010060 
+
+7248 - [2023-04-29 15:17:08,852] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,852] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 1
+7248 - [2023-04-29 15:17:08,855] : DEBUG -> Program output: - Time 1
+7248 - [2023-04-29 15:17:08,855] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,855] : DEBUG -> 
+ Tempo de Execucao: ---> 0.008010 
+
+7248 - [2023-04-29 15:17:08,855] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,855] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 2
+7248 - [2023-04-29 15:17:08,857] : DEBUG -> Program output: - Time 2
+7248 - [2023-04-29 15:17:08,857] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,857] : DEBUG -> 
+ Tempo de Execucao: ---> 0.008700 
+
+7248 - [2023-04-29 15:17:08,857] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,857] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 3
+7248 - [2023-04-29 15:17:08,860] : DEBUG -> Program output: - Time 3
+7248 - [2023-04-29 15:17:08,860] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,860] : DEBUG -> 
+ Tempo de Execucao: ---> 0.008010 
+
+7248 - [2023-04-29 15:17:08,860] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,860] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 4
+7248 - [2023-04-29 15:17:08,863] : DEBUG -> Program output: - Time 4
+7248 - [2023-04-29 15:17:08,863] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,863] : DEBUG -> 
+ Tempo de Execucao: ---> 0.008610 
+
+7248 - [2023-04-29 15:17:08,863] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,863] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 5
+7248 - [2023-04-29 15:17:08,865] : DEBUG -> Program output: - Time 5
+7248 - [2023-04-29 15:17:08,865] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,865] : DEBUG -> 
+ Tempo de Execucao: ---> 0.008950 
+
+7248 - [2023-04-29 15:17:08,865] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,865] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 6
+7248 - [2023-04-29 15:17:08,868] : DEBUG -> Program output: - Time 6
+7248 - [2023-04-29 15:17:08,868] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,868] : DEBUG -> 
+ Tempo de Execucao: ---> 0.008660 
+
+7248 - [2023-04-29 15:17:08,868] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,868] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 7
+7248 - [2023-04-29 15:17:08,870] : DEBUG -> Program output: - Time 7
+7248 - [2023-04-29 15:17:08,870] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,870] : DEBUG -> 
+ Tempo de Execucao: ---> 0.008570 
+
+7248 - [2023-04-29 15:17:08,870] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,870] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 8
+7248 - [2023-04-29 15:17:08,873] : DEBUG -> Program output: - Time 8
+7248 - [2023-04-29 15:17:08,873] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,873] : DEBUG -> 
+ Tempo de Execucao: ---> 0.008010 
+
+7248 - [2023-04-29 15:17:08,873] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,873] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 9
+7248 - [2023-04-29 15:17:08,875] : DEBUG -> Program output: - Time 9
+7248 - [2023-04-29 15:17:08,875] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,875] : DEBUG -> 
+ Tempo de Execucao: ---> 0.008040 
+
+7248 - [2023-04-29 15:17:08,875] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,875] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 10
+7248 - [2023-04-29 15:17:08,877] : DEBUG -> Program output: - Time 10
+7248 - [2023-04-29 15:17:08,877] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,877] : DEBUG -> 
+ Tempo de Execucao: ---> 0.007620 
+
+7248 - [2023-04-29 15:17:08,877] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,877] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 11
+7248 - [2023-04-29 15:17:08,880] : DEBUG -> Program output: - Time 11
+7248 - [2023-04-29 15:17:08,880] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,880] : DEBUG -> 
+ Tempo de Execucao: ---> 0.007620 
+
+7248 - [2023-04-29 15:17:08,880] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,880] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/asc1k.txt - Time 12
+7248 - [2023-04-29 15:17:08,882] : DEBUG -> Program output: - Time 12
+7248 - [2023-04-29 15:17:08,882] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,882] : DEBUG -> 
+ Tempo de Execucao: ---> 0.007550 
+
+7248 - [2023-04-29 15:17:08,882] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,882] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 0
+7248 - [2023-04-29 15:17:08,883] : DEBUG -> Program output: - Time 0
+7248 - [2023-04-29 15:17:08,883] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,884] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000010 
+
+7248 - [2023-04-29 15:17:08,884] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,884] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 1
+7248 - [2023-04-29 15:17:08,885] : DEBUG -> Program output: - Time 1
+7248 - [2023-04-29 15:17:08,885] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,885] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000020 
+
+7248 - [2023-04-29 15:17:08,885] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,885] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 2
+7248 - [2023-04-29 15:17:08,886] : DEBUG -> Program output: - Time 2
+7248 - [2023-04-29 15:17:08,886] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,886] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000010 
+
+7248 - [2023-04-29 15:17:08,886] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,886] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 3
+7248 - [2023-04-29 15:17:08,887] : DEBUG -> Program output: - Time 3
+7248 - [2023-04-29 15:17:08,887] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,887] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000020 
+
+7248 - [2023-04-29 15:17:08,887] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,887] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 4
+7248 - [2023-04-29 15:17:08,889] : DEBUG -> Program output: - Time 4
+7248 - [2023-04-29 15:17:08,889] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,889] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000020 
+
+7248 - [2023-04-29 15:17:08,889] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,889] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 5
+7248 - [2023-04-29 15:17:08,890] : DEBUG -> Program output: - Time 5
+7248 - [2023-04-29 15:17:08,890] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,890] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000010 
+
+7248 - [2023-04-29 15:17:08,890] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,890] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 6
+7248 - [2023-04-29 15:17:08,892] : DEBUG -> Program output: - Time 6
+7248 - [2023-04-29 15:17:08,892] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,892] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000010 
+
+7248 - [2023-04-29 15:17:08,892] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,892] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 7
+7248 - [2023-04-29 15:17:08,893] : DEBUG -> Program output: - Time 7
+7248 - [2023-04-29 15:17:08,893] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,893] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000010 
+
+7248 - [2023-04-29 15:17:08,893] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,893] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 8
+7248 - [2023-04-29 15:17:08,894] : DEBUG -> Program output: - Time 8
+7248 - [2023-04-29 15:17:08,894] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,894] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000020 
+
+7248 - [2023-04-29 15:17:08,894] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,894] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 9
+7248 - [2023-04-29 15:17:08,896] : DEBUG -> Program output: - Time 9
+7248 - [2023-04-29 15:17:08,896] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,896] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000010 
+
+7248 - [2023-04-29 15:17:08,896] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,896] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 10
+7248 - [2023-04-29 15:17:08,897] : DEBUG -> Program output: - Time 10
+7248 - [2023-04-29 15:17:08,897] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,897] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000010 
+
+7248 - [2023-04-29 15:17:08,897] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,897] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 11
+7248 - [2023-04-29 15:17:08,898] : DEBUG -> Program output: - Time 11
+7248 - [2023-04-29 15:17:08,898] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,898] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000010 
+
+7248 - [2023-04-29 15:17:08,898] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,898] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/.DS_Store - Time 12
+7248 - [2023-04-29 15:17:08,899] : DEBUG -> Program output: - Time 12
+7248 - [2023-04-29 15:17:08,899] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,899] : DEBUG -> 
+ Tempo de Execucao: ---> 0.000030 
+
+7248 - [2023-04-29 15:17:08,899] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,899] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 0
+7248 - [2023-04-29 15:17:08,969] : DEBUG -> Program output: - Time 0
+7248 - [2023-04-29 15:17:08,969] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,969] : DEBUG -> 
+ Tempo de Execucao: ---> 0.670270 
+
+7248 - [2023-04-29 15:17:08,969] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:08,969] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 1
+7248 - [2023-04-29 15:17:09,037] : DEBUG -> Program output: - Time 1
+7248 - [2023-04-29 15:17:09,037] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,037] : DEBUG -> 
+ Tempo de Execucao: ---> 0.662600 
+
+7248 - [2023-04-29 15:17:09,037] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,037] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 2
+7248 - [2023-04-29 15:17:09,105] : DEBUG -> Program output: - Time 2
+7248 - [2023-04-29 15:17:09,105] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,105] : DEBUG -> 
+ Tempo de Execucao: ---> 0.661290 
+
+7248 - [2023-04-29 15:17:09,105] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,105] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 3
+7248 - [2023-04-29 15:17:09,173] : DEBUG -> Program output: - Time 3
+7248 - [2023-04-29 15:17:09,173] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,173] : DEBUG -> 
+ Tempo de Execucao: ---> 0.665300 
+
+7248 - [2023-04-29 15:17:09,173] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,173] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 4
+7248 - [2023-04-29 15:17:09,242] : DEBUG -> Program output: - Time 4
+7248 - [2023-04-29 15:17:09,242] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,242] : DEBUG -> 
+ Tempo de Execucao: ---> 0.663290 
+
+7248 - [2023-04-29 15:17:09,242] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,242] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 5
+7248 - [2023-04-29 15:17:09,310] : DEBUG -> Program output: - Time 5
+7248 - [2023-04-29 15:17:09,311] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,311] : DEBUG -> 
+ Tempo de Execucao: ---> 0.670350 
+
+7248 - [2023-04-29 15:17:09,311] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,311] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 6
+7248 - [2023-04-29 15:17:09,379] : DEBUG -> Program output: - Time 6
+7248 - [2023-04-29 15:17:09,380] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,380] : DEBUG -> 
+ Tempo de Execucao: ---> 0.671030 
+
+7248 - [2023-04-29 15:17:09,380] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,380] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 7
+7248 - [2023-04-29 15:17:09,448] : DEBUG -> Program output: - Time 7
+7248 - [2023-04-29 15:17:09,448] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,448] : DEBUG -> 
+ Tempo de Execucao: ---> 0.665100 
+
+7248 - [2023-04-29 15:17:09,448] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,448] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 8
+7248 - [2023-04-29 15:17:09,517] : DEBUG -> Program output: - Time 8
+7248 - [2023-04-29 15:17:09,517] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,517] : DEBUG -> 
+ Tempo de Execucao: ---> 0.668190 
+
+7248 - [2023-04-29 15:17:09,517] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,517] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 9
+7248 - [2023-04-29 15:17:09,585] : DEBUG -> Program output: - Time 9
+7248 - [2023-04-29 15:17:09,585] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,585] : DEBUG -> 
+ Tempo de Execucao: ---> 0.665240 
+
+7248 - [2023-04-29 15:17:09,585] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,585] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 10
+7248 - [2023-04-29 15:17:09,654] : DEBUG -> Program output: - Time 10
+7248 - [2023-04-29 15:17:09,654] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,654] : DEBUG -> 
+ Tempo de Execucao: ---> 0.669970 
+
+7248 - [2023-04-29 15:17:09,654] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,654] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 11
+7248 - [2023-04-29 15:17:09,723] : DEBUG -> Program output: - Time 11
+7248 - [2023-04-29 15:17:09,723] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,723] : DEBUG -> 
+ Tempo de Execucao: ---> 0.666450 
+
+7248 - [2023-04-29 15:17:09,723] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,723] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc10k.txt - Time 12
+7248 - [2023-04-29 15:17:09,792] : DEBUG -> Program output: - Time 12
+7248 - [2023-04-29 15:17:09,792] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,792] : DEBUG -> 
+ Tempo de Execucao: ---> 0.669370 
+
+7248 - [2023-04-29 15:17:09,792] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,792] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 0
+7248 - [2023-04-29 15:17:09,794] : DEBUG -> Program output: - Time 0
+7248 - [2023-04-29 15:17:09,794] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,794] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006580 
+
+7248 - [2023-04-29 15:17:09,795] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,795] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 1
+7248 - [2023-04-29 15:17:09,796] : DEBUG -> Program output: - Time 1
+7248 - [2023-04-29 15:17:09,796] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,796] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006430 
+
+7248 - [2023-04-29 15:17:09,796] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,796] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 2
+7248 - [2023-04-29 15:17:09,798] : DEBUG -> Program output: - Time 2
+7248 - [2023-04-29 15:17:09,798] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,798] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006370 
+
+7248 - [2023-04-29 15:17:09,798] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,798] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 3
+7248 - [2023-04-29 15:17:09,800] : DEBUG -> Program output: - Time 3
+7248 - [2023-04-29 15:17:09,800] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,800] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006360 
+
+7248 - [2023-04-29 15:17:09,800] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,800] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 4
+7248 - [2023-04-29 15:17:09,802] : DEBUG -> Program output: - Time 4
+7248 - [2023-04-29 15:17:09,802] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,802] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006370 
+
+7248 - [2023-04-29 15:17:09,802] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,802] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 5
+7248 - [2023-04-29 15:17:09,804] : DEBUG -> Program output: - Time 5
+7248 - [2023-04-29 15:17:09,804] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,804] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006360 
+
+7248 - [2023-04-29 15:17:09,804] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,804] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 6
+7248 - [2023-04-29 15:17:09,806] : DEBUG -> Program output: - Time 6
+7248 - [2023-04-29 15:17:09,806] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,806] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006280 
+
+7248 - [2023-04-29 15:17:09,806] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,806] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 7
+7248 - [2023-04-29 15:17:09,808] : DEBUG -> Program output: - Time 7
+7248 - [2023-04-29 15:17:09,808] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,808] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006280 
+
+7248 - [2023-04-29 15:17:09,808] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,808] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 8
+7248 - [2023-04-29 15:17:09,810] : DEBUG -> Program output: - Time 8
+7248 - [2023-04-29 15:17:09,810] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,810] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006380 
+
+7248 - [2023-04-29 15:17:09,810] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,810] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 9
+7248 - [2023-04-29 15:17:09,811] : DEBUG -> Program output: - Time 9
+7248 - [2023-04-29 15:17:09,812] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,812] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006500 
+
+7248 - [2023-04-29 15:17:09,812] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,812] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 10
+7248 - [2023-04-29 15:17:09,813] : DEBUG -> Program output: - Time 10
+7248 - [2023-04-29 15:17:09,813] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,813] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006280 
+
+7248 - [2023-04-29 15:17:09,813] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,813] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 11
+7248 - [2023-04-29 15:17:09,815] : DEBUG -> Program output: - Time 11
+7248 - [2023-04-29 15:17:09,815] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,815] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006310 
+
+7248 - [2023-04-29 15:17:09,815] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,815] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/rand1k.txt - Time 12
+7248 - [2023-04-29 15:17:09,817] : DEBUG -> Program output: - Time 12
+7248 - [2023-04-29 15:17:09,817] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,817] : DEBUG -> 
+ Tempo de Execucao: ---> 0.006510 
+
+7248 - [2023-04-29 15:17:09,817] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:17:09,817] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc500k.txt - Time 0
+7248 - [2023-04-29 15:19:57,902] : DEBUG -> Program output: - Time 0
+7248 - [2023-04-29 15:19:57,902] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:19:57,902] : DEBUG -> 
+ Tempo de Execucao: ---> 1680.488330 
+
+7248 - [2023-04-29 15:19:57,902] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:19:57,902] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc500k.txt - Time 1
+7248 - [2023-04-29 15:22:46,004] : DEBUG -> Program output: - Time 1
+7248 - [2023-04-29 15:22:46,004] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:22:46,004] : DEBUG -> 
+ Tempo de Execucao: ---> 1680.642390 
+
+7248 - [2023-04-29 15:22:46,004] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:22:46,004] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc500k.txt - Time 2
+7248 - [2023-04-29 15:25:35,014] : DEBUG -> Program output: - Time 2
+7248 - [2023-04-29 15:25:35,015] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:25:35,015] : DEBUG -> 
+ Tempo de Execucao: ---> 1689.706100 
+
+7248 - [2023-04-29 15:25:35,015] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:25:35,015] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc500k.txt - Time 3
+7248 - [2023-04-29 15:28:23,473] : DEBUG -> Program output: - Time 3
+7248 - [2023-04-29 15:28:23,474] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:28:23,474] : DEBUG -> 
+ Tempo de Execucao: ---> 1684.196190 
+
+7248 - [2023-04-29 15:28:23,474] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:28:23,474] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc500k.txt - Time 4
+7248 - [2023-04-29 15:31:10,852] : DEBUG -> Program output: - Time 4
+7248 - [2023-04-29 15:31:10,853] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:31:10,853] : DEBUG -> 
+ Tempo de Execucao: ---> 1673.401840 
+
+7248 - [2023-04-29 15:31:10,853] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:31:10,853] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc500k.txt - Time 5
+7248 - [2023-04-29 15:33:59,407] : DEBUG -> Program output: - Time 5
+7248 - [2023-04-29 15:33:59,408] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:33:59,408] : DEBUG -> 
+ Tempo de Execucao: ---> 1685.156490 
+
+7248 - [2023-04-29 15:33:59,408] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:33:59,408] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc500k.txt - Time 6
+7248 - [2023-04-29 15:36:47,992] : DEBUG -> Program output: - Time 6
+7248 - [2023-04-29 15:36:47,993] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:36:47,993] : DEBUG -> 
+ Tempo de Execucao: ---> 1685.452390 
+
+7248 - [2023-04-29 15:36:47,994] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:36:47,994] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc500k.txt - Time 7
+7248 - [2023-04-29 15:39:36,867] : DEBUG -> Program output: - Time 7
+7248 - [2023-04-29 15:39:36,868] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:39:36,868] : DEBUG -> 
+ Tempo de Execucao: ---> 1688.306770 
+
+7248 - [2023-04-29 15:39:36,868] : DEBUG -> ---------------------------
+7248 - [2023-04-29 15:39:36,868] : DEBUG -> Running input: /Users/hugolima/GitHub/HugoLima_ws_AA_RR_2022/exp/inputs/desc500k.txt - Time 8
