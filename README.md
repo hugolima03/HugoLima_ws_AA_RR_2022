@@ -5,3 +5,4 @@
 - https://joaoarthurbm.github.io/eda/posts/selection-sort/
 - https://www.youtube.com/watch?v=v50wSxxlit0
 - https://www.youtube.com/watch?v=ZT_dT8yn48s
+- https://www.programiz.com/dsa/heap-sort

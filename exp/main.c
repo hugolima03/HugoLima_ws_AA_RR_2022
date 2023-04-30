@@ -5,10 +5,10 @@
 struct timeval t1, t2;
 double elapsedTime;
 /*para o calculo do tempo*/
-unsigned long time_diff(struct timeval a, struct timeval b){
-	struct timeval res;
-	timersub(&a, &b, &res);
-	return res.tv_sec * 1000000 + res.tv_usec;
+unsigned long time_diff(struct timeval a, struct timeval b) {
+  struct timeval res;
+  timersub(&a, &b, &res);
+  return res.tv_sec * 1000000 + res.tv_usec;
 }
 
 void swap(int *a, int *b) {
@@ -17,19 +17,34 @@ void swap(int *a, int *b) {
   *b = temp;
 }
 
-void selectionSort(int array[], int size) {
-  for (int step = 0; step < size - 1; step++) {
-    int min_idx = step;
-    for (int i = step + 1; i < size; i++) {
+void heapify(int arr[], int n, int i) {
+  // Find largest among root, left child and right child
+  int largest = i;
+  int left = 2 * i + 1;
+  int right = 2 * i + 2;
 
-      // To sort in descending order, change > to < in this line.
-      // Select the minimum element in each loop.
-      if (array[i] < array[min_idx])
-        min_idx = i;
-    }
+  if (left < n && arr[left] > arr[largest]) largest = left;
 
-    // put min at the correct position
-    swap(&array[min_idx], &array[step]);
+  if (right < n && arr[right] > arr[largest]) largest = right;
+
+  // Swap and continue heapifying if root is not largest
+  if (largest != i) {
+    swap(&arr[i], &arr[largest]);
+    heapify(arr, n, largest);
+  }
+}
+
+// Main function to do heap sort
+void heapSort(int arr[], int n) {
+  // Build max heap
+  for (int i = n / 2 - 1; i >= 0; i--) heapify(arr, n, i);
+
+  // Heap sort
+  for (int i = n - 1; i >= 0; i--) {
+    swap(&arr[0], &arr[i]);
+
+    // Heapify root element to get highest element at root again
+    heapify(arr, i, 0);
   }
 }
 
@@ -58,14 +73,14 @@ int main(int argc, char **argv) {
   int size = sizeof(&lista) / sizeof(lista[0]);
   gettimeofday(&t1, NULL);
   // EXECUCAO - apenas o algoritmo de ordenacao deve executar aqui
-  selectionSort(lista, count);
+  heapSort(lista, count);
   gettimeofday(&t2, NULL);
   // OUTPUT
   // for (int i = 0; i < count; i++) {
   //   printf("%d\n", lista[i]);
   // }
-	//imprimi o tempo em milisegundos								
-	printf("\n Tempo de Execucao: ---> %lf \n",time_diff(t2, t1)/100000.0);
+  // imprimi o tempo em milisegundos
+  printf("\n Tempo de Execucao: ---> %lf \n", time_diff(t2, t1) / 100000.0);
 
   free(lista);
   return 0;
