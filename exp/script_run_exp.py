@@ -18,15 +18,14 @@ Usage mode:
 
 BINARY_PROGRAM = "main"
 INPUTS_FILE = "inputs"
-TIMES_RUN = 13
+TIMES_RUN = 1
 PATH_FILES_INPUT_LIST = []
 
 def list_files_input():    
     for (dirpath, dirnames, filenames) in walk(INPUTS_FILE):
-        for file in filenames:
+        for file in sorted(filenames, key=lambda x: os.path.getctime(os.path.abspath(dirpath) + "/" + x)):
             full_path = os.path.abspath(dirpath) + "/" + file
-            PATH_FILES_INPUT_LIST.append(full_path)   
-
+            PATH_FILES_INPUT_LIST.append(full_path)
 
 def run_code():
     logging.debug(f'Running the program with each input {TIMES_RUN} times')
